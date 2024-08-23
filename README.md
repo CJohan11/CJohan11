@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi my name is Johan Camacho
+- I am currently working on figuring out what I have to do in my classes.
+- Im currently studying mechanical engineering.
+- Im looking for help with how to understand this computer class further.
+- Fun fact: I love cars and hope to work with something relating to them in the future.
 <!--
 **CJohan11/CJohan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
